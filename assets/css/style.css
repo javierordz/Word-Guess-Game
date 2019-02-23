@@ -1,0 +1,56 @@
+body, html {
+    height: 100%;
+    margin: 0;
+    color: black;
+}
+
+.bg {
+    background-image: url("../images/dali_wallpaper.jpg");
+    height: 100%;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.container {
+    padding-top: 25px;
+    width: 50%;
+}
+
+h1 {
+    font-family: 'Special Elite', cursive;
+    text-align: center;
+    font-size: 3.7em;
+    padding-top: 15px;
+    margin: 0;
+}
+
+h2 {
+    font-family: Staatliches, cursive;
+    text-align: center;
+    font-size: 2.5em;
+    padding-top: 15px;
+    margin: 0;
+    opacity: 1;
+}
+
+img {
+    display: block;
+    margin: 0 auto;
+    width: 678px;
+    height: 15px;
+    transform: scaleX(-1);
+    opacity: 0.5;
+}
+
+p {
+    font-family: 'Special Elite', cursive;
+    text-align: center;
+    font-size: 1.5em;
+    margin: 0;
+    color: black;
+}
+
+.disp {
+    color: #dfdfdf;
+}
